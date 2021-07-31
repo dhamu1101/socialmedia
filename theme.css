@@ -2,7 +2,7 @@ body{
      fonf-family: arial;
 }
 
-p{
+h1{
     background-color: tomato;
     padding-top: 30px;
     padding-right: 20px;
@@ -10,7 +10,7 @@ p{
     padding-left: 30px;
 }
 
-h1{
+P{
      background-color: powderblue;
      padding: 10px; 20px 10px 20px;
 }
