@@ -1,0 +1,45 @@
+body{
+     Fonf-family: arial;
+}
+
+h1{
+    background-color: tomato;
+    padding-top: 30px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+}
+
+P{
+     background-color: powderblue;
+     padding: 10px; 20px 10px 20px;
+}
+
+h2{
+     background-color: powderblue;
+     padding: 10px; 20px 10px 20px;
+}
+
+
+h3{
+     background-color: grey;
+     padding: 10px; 20px 10px 20px;
+}
+
+
+h4{
+     background-color: orange;
+     padding: 10px; 20px 10px 20px;
+}
+
+h5{
+     background-color: mediumseagreen;
+     padding: 10px; 20px 10px 20px;
+}
+
+h6{
+     background-color: mediumseagreen;
+     padding: 10px; 20px 10px 20px;
+}
+
+}
